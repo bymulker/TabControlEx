@@ -1,0 +1,5 @@
+E:\Belgeler\Visual Studio 2015\Projects\PMS_Teklif\PMS_Teklif\ToolbarEx\bin\Debug\ToolbarEx.dll
+E:\Belgeler\Visual Studio 2015\Projects\PMS_Teklif\PMS_Teklif\ToolbarEx\bin\Debug\ToolbarEx.pdb
+E:\Belgeler\Visual Studio 2015\Projects\PMS_Teklif\PMS_Teklif\ToolbarEx\obj\Debug\ToolbarEx.csprojResolveAssemblyReference.cache
+E:\Belgeler\Visual Studio 2015\Projects\PMS_Teklif\PMS_Teklif\ToolbarEx\obj\Debug\ToolbarEx.dll
+E:\Belgeler\Visual Studio 2015\Projects\PMS_Teklif\PMS_Teklif\ToolbarEx\obj\Debug\ToolbarEx.pdb

@@ -1,0 +1,16 @@
+E:\Belgeler\Visual Studio 2015\Projects\PMS_Teklif\PMS_Teklif\ToolbarEx\bin\Debug\ToolbarEx.dll
+E:\Belgeler\Visual Studio 2015\Projects\PMS_Teklif\PMS_Teklif\ToolbarEx\bin\Debug\ToolbarEx.pdb
+E:\Belgeler\Visual Studio 2015\Projects\PMS_Teklif\PMS_Teklif\ToolbarEx\obj\Debug\TabControlEx.csprojResolveAssemblyReference.cache
+E:\Belgeler\Visual Studio 2015\Projects\PMS_Teklif\PMS_Teklif\ToolbarEx\obj\Debug\ToolbarEx.TabControlEx.resources
+E:\Belgeler\Visual Studio 2015\Projects\PMS_Teklif\PMS_Teklif\ToolbarEx\obj\Debug\ToolbarEx.TabPageRenamingEventArgs.resources
+E:\Belgeler\Visual Studio 2015\Projects\PMS_Teklif\PMS_Teklif\ToolbarEx\obj\Debug\TabControlEx.csproj.GenerateResource.Cache
+E:\Belgeler\Visual Studio 2015\Projects\PMS_Teklif\PMS_Teklif\ToolbarEx\obj\Debug\ToolbarEx.dll
+E:\Belgeler\Visual Studio 2015\Projects\PMS_Teklif\PMS_Teklif\ToolbarEx\obj\Debug\ToolbarEx.pdb
+E:\Belgeler\Visual Studio 2015\Projects\TabControlEx\bin\Debug\ToolbarEx.dll
+E:\Belgeler\Visual Studio 2015\Projects\TabControlEx\bin\Debug\ToolbarEx.pdb
+E:\Belgeler\Visual Studio 2015\Projects\TabControlEx\obj\Debug\ToolbarEx.TabControlEx.resources
+E:\Belgeler\Visual Studio 2015\Projects\TabControlEx\obj\Debug\ToolbarEx.TabPageRenamingEventArgs.resources
+E:\Belgeler\Visual Studio 2015\Projects\TabControlEx\obj\Debug\TabControlEx.csproj.GenerateResource.Cache
+E:\Belgeler\Visual Studio 2015\Projects\TabControlEx\obj\Debug\ToolbarEx.dll
+E:\Belgeler\Visual Studio 2015\Projects\TabControlEx\obj\Debug\ToolbarEx.pdb
+E:\Belgeler\Visual Studio 2015\Projects\TabControlEx\obj\Debug\TabControlEx.csprojResolveAssemblyReference.cache
